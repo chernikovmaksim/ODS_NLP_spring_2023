@@ -1,0 +1,15 @@
+pandas
+numpy
+torch
+torchvision
+torchaudio
+tqdm
+transformers
+seaborn
+matplotlib
+plotly
+nltk
+wordcloud
+scikit-learn
+gensim
+catboost
