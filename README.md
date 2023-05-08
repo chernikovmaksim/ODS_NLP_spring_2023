@@ -16,6 +16,12 @@ The purpose of this competition is to create a model that accurately categorizes
 2. Determine the best solutions for a similar problem, and analyze and apply the existing SOTA solution
 3. Prepare research and code and provide results in the form of a report
 
+## Project report
+[Project Report](Quora Insincere Questions Classification.pdf) - the report describes the work done on the project, results and conclusions.
+
+## Dependencies
+    pip install -r requirements.txt
+
 ## Code quality
 isort (https://pycqa.github.io/isort/)
 
@@ -53,3 +59,8 @@ flake8 (https://flake8.pycqa.org/en/latest/) and flake8-black (https://pypi.org/
 
     # run flake8 in root dir with recursion to check code
     flake8 .
+
+## Team members
+Maksim Chernikov https://github.com/chernikovmaksim <br>
+Elizaveta Chefanova https://github.com/BethSKY <br>
+Julia Sosnina https://github.com/SosninaIuliia <br>
