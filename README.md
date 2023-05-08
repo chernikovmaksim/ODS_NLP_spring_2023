@@ -1,17 +1,22 @@
-![](https://www.ideassn.org/wp-content/uploads/2017/06/image001-1.png)
+![](https://storage.yandexcloud.net/datasouls-ods/static/meta_tags/1200x628.jpg)
 
-# Project
+# Quora Insincere Questions Classification
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Imports: isort](https://img.shields.io/badge/%20imports-isort-%231674b1?style=flat&labelColor=ef8336)](https://pycqa.github.io/isort/)
 [![Documentation Status](https://readthedocs.org/projects/flake8/badge/?version=latest)](https://flake8.pycqa.org/en/latest/?badge=latest)
 
-## Цель
+## Description
+This project was made as part of the ODS course on NLP in the spring of 2023. 
+The project is based on the competition https://www.kaggle.com/competitions/quora-insincere-questions-classification.
+The purpose of this competition is to create a model that accurately categorizes the questions asked on the Quora site as sincere and not sincere.
 
-## Описание
+## Objective of the project
+1. Analyze and apply existing approaches for solving NLP problems in the direction of sentiment analysis for the current competition
+2. Determine the best solutions for a similar problem, and analyze and apply the existing SOTA solution
+3. Prepare research and code and provide results in the form of a report
 
-
-## Качество кода
+## Code quality
 isort (https://pycqa.github.io/isort/)
 
     # config_file: pyproject.toml
