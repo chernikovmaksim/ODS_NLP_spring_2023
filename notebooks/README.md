@@ -4,6 +4,6 @@ Notebooks contain all the stages of the work carried out on the project.
 2. Preprocessing
 3. TF-IDF
 4. Word2Vec
-5. BI-LSTM
+5. LSTM
 6. DistillBERT
 7. DistillRoBERTa
