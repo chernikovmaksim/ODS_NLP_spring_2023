@@ -17,7 +17,7 @@ The purpose of this competition is to create a model that accurately categorizes
 3. Prepare research and code and provide results in the form of a report
 
 ## Project report
-[Project Report](Quora Insincere Questions Classification.pdf) - the report describes the work done on the project, results and conclusions.
+[Project Report](NLP_course__Quora_.pdf) - the report describes the work done on the project, results and conclusions.
 
 ## Dependencies
     pip install -r requirements.txt
